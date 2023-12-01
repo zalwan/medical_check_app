@@ -1,5 +1,5 @@
-![Screenshot Aplikasi](onboarding.png)
-![Screenshot Aplikasi](dashboard.png)
+![preview onboarding](onboarding.png){width=300px}
+![preview dashboard](dashboard.png){width=300px}
 
 # medical_check_app
 
