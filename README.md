@@ -1,6 +1,8 @@
 <div style="display:flex;">
-    <img src="onboarding.png" alt="Preview Onboarding" width="300" style="margin-right: 20px;">
+    <img src="onboarding.png" alt="Preview Onboarding" width="300">
+    <div style="width:20px;"><div/>
     <img src="dashboard.png" alt="Preview Dashboard" width="300">
+
 </div>
 
 <!-- ![preview onboarding](onboarding.png){width=300px}
