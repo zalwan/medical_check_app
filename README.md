@@ -1,6 +1,6 @@
 <div style="display:flex;">
     <img src="onboarding.png" alt="Preview Onboarding" width="300">
-    <div style="width:20px;"><div/>
+       <br>
     <img src="dashboard.png" alt="Preview Dashboard" width="300">
 
 </div>
