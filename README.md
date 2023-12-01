@@ -1,5 +1,5 @@
-<div style="display:flex; justify-content:center;">
-    <img src="onboarding.png" alt="Preview Onboarding" width="300" style="margin-right: 20px;">
+<div style="display:flex; gap: 20px;">
+    <img src="onboarding.png" alt="Preview Onboarding" width="300">
     <img src="dashboard.png" alt="Preview Dashboard" width="300">
 </div>
 
