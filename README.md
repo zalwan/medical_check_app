@@ -1,5 +1,8 @@
-![preview onboarding](onboarding.png){width=300px}
-![preview dashboard](dashboard.png){width=300px}
+<img src="onboarding.png" alt="Preview Onboarding" width="300">
+<img src="dashboard.png" alt="Preview Dashboard" width="300">
+
+<!-- ![preview onboarding](onboarding.png){width=300px}
+![preview dashboard](dashboard.png){width=300px} -->
 
 # medical_check_app
 
