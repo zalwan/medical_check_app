@@ -1,3 +1,4 @@
+![Screenshot Aplikasi](onboarding.png)
 ![Screenshot Aplikasi](dashboard.png)
 
 # medical_check_app
