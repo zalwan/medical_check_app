@@ -1,4 +1,4 @@
-<div style="display:flex;">
+<div style="display:flex; justify-content:space-evenly;">
     <img src="onboarding.png" alt="Preview Onboarding" width="300">
     <img src="dashboard.png" alt="Preview Dashboard" width="300">
 </div>
