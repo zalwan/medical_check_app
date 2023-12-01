@@ -1,3 +1,5 @@
+![Screenshot Aplikasi](dashboard.png)
+
 # medical_check_app
 
 A new Flutter project.
